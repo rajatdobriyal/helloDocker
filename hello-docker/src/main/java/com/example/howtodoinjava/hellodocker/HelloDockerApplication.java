@@ -13,7 +13,6 @@ public class HelloDockerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloDockerApplication.class, args);
-		
 	}
 }
 
